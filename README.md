@@ -12,7 +12,7 @@
     
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-"`
+`
 var status = 
 { 
 
@@ -25,7 +25,7 @@ interests    : [Problem Solving, Backend Development , Frontend Development],
 experince    : Fullstack developer at Flash Networks Corporation - Israel, (about a year and half).
 
 }
-`"
+`
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
