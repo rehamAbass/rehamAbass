@@ -15,25 +15,37 @@
 
 var status = 
 { 
-  Degree       : "Bachelor in Software Engineering From College of Engineering, Ort Braude College - Israel 🎓",
-  Certificates : ["The Complete 2021 WebDevelopment Bootcamp"],
-  learning     : [],
-  interests    : [Problem Solving, Backend Development , Frontend Development],
-  experince    : Fullstack developer for Flash Networks - Israel, about a year and half.
+
+Degree       : "Bachelor in Software Engineering From College of Engineering, Ort Braude College - Israel 🎓",
+
+Certificates : ["The Complete 2021 WebDevelopment Bootcamp"],
+
+interests    : [Problem Solving, Backend Development , Frontend Development],
+
+experince    : Fullstack developer for Flash Networks - Israel, about a year and half.
 }
+
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 const skills = 
 {
-  languages :[C#,  Java, Html5, Css3, Javascript],
+ 
+ languages :[C#,  Java, Html5, Css3, Javascript],
   
-  frameworks:[Angular, React, Node],
+ 
+ frameworks:[Angular, React, Node],
   
-  libraries :[Jquery,  Express],
+ 
+ libraries :[Jquery,  Express],
   
-  ide       :[Vs Code, Eclipse, WebStorm],
+ 
+ ide       :[Vs Code, Eclipse, WebStorm],
   
-  databases :[MySql, MongoDB],
+ 
+ databases :[MySql, MongoDB],
   
-  platforms :[Vercel,Github, Postman]
+ 
+ platforms :[Vercel,Github, Postman]
+
 }
+
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
