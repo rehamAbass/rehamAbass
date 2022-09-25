@@ -5,12 +5,13 @@
 -->
 - ✨ I’m currently learning  C# .net 6 , Angular 14 , React Hooks.
 - ✨ How to reach me: 
-    DevReham Abass  
-    - FacebookReham Abass 
-    - LinkedInRehamAbass  
+    
+    - Facebook : Reham Abass 
+    - LinkedIn  : RehamAbass  
     - email : soft.rehamabass@gmail.com
     - +972 585811005
-    - 
+    - rehamabass.com
+    
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 var status = 
