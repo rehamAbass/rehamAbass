@@ -12,7 +12,8 @@
     - +972 585811005
     - https://rehamabass.com
     
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 
 var status = 
 { 
@@ -27,30 +28,9 @@ experince    : Fullstack developer at Flash Networks Corporation - Israel, (abou
 
 }
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-const skills = 
-{
- 
- languages :[C#,  Java, Html5, Css3, Javascript],
-  
- 
- frameworks:[Angular, React, Node],
-  
- 
- libraries :[Jquery,  Express],
-  
- 
- ide       :[Vs Code, Eclipse, WebStorm],
-  
- 
- databases :[MySql, MongoDB],
-  
- 
- platforms :[Vercel,Github, Postman]
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-}
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 
 
