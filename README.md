@@ -6,10 +6,8 @@
 - ✨ I’m currently practicing :  .net 6 , Angular 14 , React Hooks.
 - ✨ How to reach me: 
     
-    - Facebook : Reham Abass 
     - LinkedIn  : RehamAbass  
     - email : soft.rehamabass@gmail.com
-    - +972 585811005
     - https://rehamabass.com
     
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
