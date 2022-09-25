@@ -23,7 +23,8 @@ Certificates : ["The Complete 2021 WebDevelopment Bootcamp"],
 
 interests    : [Problem Solving, Backend Development , Frontend Development],
 
-experince    : Fullstack developer for Flash Networks - Israel, about a year and half.
+experince    : Fullstack developer at Flash Networks Corporation - Israel, (about a year and half).
+
 }
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
