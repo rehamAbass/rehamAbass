@@ -3,7 +3,7 @@
 <!--
 **rehamAbass/rehamAbass** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- ✨ I’m currently learning  C# .net 6 , Angular 14 , React Hooks.
+- ✨ I’m currently practicing :  .net 6 , Angular 14 , React Hooks.
 - ✨ How to reach me: 
     
     - Facebook : Reham Abass 
