@@ -10,7 +10,8 @@
     - LinkedInRehamAbass  
     - email : soft.rehamabass@gmail.com
     - +972 585811005
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+    - 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 var status = 
 { 
@@ -20,7 +21,7 @@ var status =
   interests    : [Problem Solving, Backend Development , Frontend Development],
   experince    : Fullstack developer for Flash Networks - Israel, about a year and half.
 }
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 const skills = 
 {
   languages :[C#,  Java, Html5, Css3, Javascript],
@@ -35,4 +36,4 @@ const skills =
   
   platforms :[Vercel,Github, Postman]
 }
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
