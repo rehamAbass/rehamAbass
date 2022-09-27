@@ -14,5 +14,3 @@ var status = {
     Interests    : [Problem Solving, Backend Development , Frontend Development],
     Experience   : Fullstack developer at Flash Networks Corporation - Israel, ~1.5 years.
 }
-
-▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
