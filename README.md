@@ -1,14 +1,13 @@
 ### Hi there 👋 🔥 🔥 
 
 - ✨ I’m currently practicing :  .net 6 , Angular 14 , React Hooks.
-- ✨ How to reach me: 
-    
+- ✨ reaching me :
     - LinkedIn  : RehamAbass  
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
     
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-“
+`“
 var status = 
 { 
 
@@ -20,6 +19,6 @@ interests    : [Problem Solving, Backend Development , Frontend Development],
 
 experince    : Fullstack developer at Flash Networks Corporation - Israel, (about a year and half).
 
-}“
+}“`
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
