@@ -10,7 +10,7 @@
  
  “``var yes = true;`”
  
-  “`var a1 = 5;``”
+  “`var a1 = 5;`”
   
 >var status = { 
         Degree       : "Bachelor in Software Engineering From College of Engineering, Ort Braude College - Israel 🎓",
