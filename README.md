@@ -9,7 +9,7 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ````
 var status = { 
-    Degree       : "Bachelor in Software Engineering 🎓 From Ort Braude College - Israel ",
+    Degree       : "B.Sc. in Software Engineering 🎓 From Ort Braude College - Israel ",
     Certificates : ["The Complete 2021 WebDevelopment Bootcamp"],
     Interests    : [Problem Solving, Backend Development , Frontend Development],
     Experience   : Fullstack developer at Flash Networks Corporation - Israel, (about a year and half).
