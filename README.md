@@ -8,7 +8,8 @@
     - https://rehamabass.com
     
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-“`var status = 
+“
+var status = 
 { 
 
 Degree       : "Bachelor in Software Engineering From College of Engineering, Ort Braude College - Israel 🎓",
@@ -19,14 +20,6 @@ interests    : [Problem Solving, Backend Development , Frontend Development],
 
 experince    : Fullstack developer at Flash Networks Corporation - Israel, (about a year and half).
 
-}“`
-
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+}“
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-
-
-
-
