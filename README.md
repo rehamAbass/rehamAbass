@@ -2,7 +2,7 @@
 
 - ✨ I’m currently practicing :  .net 6 , Angular 14 , React Hooks.
 - ✨ reaching me :
-    - LinkedIn  : RehamAbass  
+    - LinkedIn  : Reham Abass  
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
     
