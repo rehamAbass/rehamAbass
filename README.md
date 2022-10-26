@@ -5,7 +5,7 @@
     - LinkedIn  : Reham Abass  
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
-    - current job : Fullstack developer at Matrix, for Mazrahi bank Web & app. 
+    
     
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ````
