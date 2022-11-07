@@ -1,11 +1,12 @@
 ### Hi there 👋  WELCOME TO MY GITHUB 🔥 🔥 
 
-- ✨ I’m currently practicing :  .net 6 , Angular 14 , React Hooks.
+- ✨ I’m currently practicing :  .net 6 , Angular 14 & Ionic for ios-android, React Hooks.
 - ✨ reaching me :
     - LinkedIn  : Reham Abass  
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
     
+    -Current position : Fullstack developer at Matrix ~ Israel.
     
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ````
