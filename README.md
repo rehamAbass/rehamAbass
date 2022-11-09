@@ -1,6 +1,6 @@
 ### Hi there 👋  WELCOME TO MY GITHUB 🔥 🔥 
 
-- ✨ I’m currently practicing :  .net 6 , Angular 14 , ionic for ios & android .
+- ✨ I’m currently practicing :  .net 6 , Angular 14 , ionic for ios & android 📲📲 .
 - ✨ reaching me :
     - LinkedIn  : Reham Abass  
     - email : soft.rehamabass@gmail.com
