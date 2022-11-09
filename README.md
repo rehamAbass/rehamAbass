@@ -6,7 +6,7 @@
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
     
-    -Current position : Fullstack developer at Matrix ~ Israel.
+    🚀🚀  Current position : Fullstack developer at Matrix ~ Israel.
     
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ````
