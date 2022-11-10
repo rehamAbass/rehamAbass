@@ -5,9 +5,7 @@
     - LinkedIn  : Reham Abass  
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
-    
-    🚀 Current position : Fullstack developer at Matrix ~ Israel.
-    
+       
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ````
 var status = { 
