@@ -9,8 +9,8 @@
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ````
 var status = { 
-    Degree       : "B.Sc. in Software Engineering 🎓 From Ort Braude College - Israel ",
+    Degree       : "B.Sc. in Software Engineering 🎓 - Israel ",
     Certificates : ["The Complete 2021 WebDevelopment Bootcamp"],
     Interests    : [Problem Solving, Backend Development , Frontend Development],
-    Experience   : Fullstack developer at Flash Networks Corporation - Israel, ~1.5 years.
+    Experience   : Fullstack developer about 4.5 years!
 }
