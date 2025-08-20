@@ -1,6 +1,6 @@
 ### Hi there 👋  WELCOME TO MY GITHUB 🔥 🔥 
 - ✨ reaching me OUT :
-    - LinkedIn  : Reham Abass  
+    - LinkedIn  : [Reham Abass  ](https://www.linkedin.com/in/rehamabass/)
     - email : soft.rehamabass@gmail.com
     - https://rehamabass.com
     - visit my app >> https://music-reham-to-do-list.vercel.app/
