@@ -5,8 +5,16 @@
     - https://rehamabass.com
     - visit my app >> https://music-reham-to-do-list.vercel.app/
 
+## 🚀 After 3 incredible years at MATRIX, I’m thrilled to start the next chapter in my career!
 
-    - ✨ I’m currently practicing :  .net 6 , Angular 14 , ionic for ios & android 📲📲 .
+## During this time, I grew from a Junior Software Engineer into an Experienced Software Engineer, gaining strong hands-on experience in:
+## - Backend Development:  C# .NET, [JAVA,PYTHON - personal projects].
+## - Frontend: TS , ANGULAR [hands-on experience], store statements(RXJS + NJRX), [React - personal projects].
+
+## I had the opportunity to work on impactful projects, collaborating with talented teams and building scalable solutions.
+
+
+✨ I’m currently practicing :  .net 6 , Angular 14 , ionic for ios & android 📲📲 .
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ````
 var status = { 
