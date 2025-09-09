@@ -25,8 +25,7 @@ var status = {
 }
 ````
 
-
-![Capture](https://github.com/user-attachments/assets/3c3c5d93-acb7-46de-967d-1930d7d9bddf)
+<img width="760" height="409" alt="image" src="https://github.com/user-attachments/assets/6e6ee9fd-d79d-4314-be93-3f3b84153e1a" />
 
 
 ![123](https://github.com/user-attachments/assets/988938ca-b9dc-482d-be7a-60671b1e779e)
