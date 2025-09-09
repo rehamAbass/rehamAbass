@@ -27,5 +27,5 @@ var status = {
 
 <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/6e6ee9fd-d79d-4314-be93-3f3b84153e1a" />
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/988938ca-b9dc-482d-be7a-60671b1e779e" />
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/988938ca-b9dc-482d-be7a-60671b1e779e" />
 
